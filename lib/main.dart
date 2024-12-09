@@ -26,7 +26,7 @@ class BallPage extends StatefulWidget {
 }
 
 class _BallPageState extends State<BallPage> {
-  var _ballNum = 1;
+  var _ballNum = 2;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
